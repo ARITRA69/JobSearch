@@ -7,7 +7,7 @@ The Mobile Job Searching App is a cross-platform application designed to help us
 * **Job Search**: Users can search for jobs based on various criteria such as job title, location, company. The app also allows users to filter jobs by job type.
 
 * **Job Application**: The app provides users with a simple and easy way to apply for jobs.
-<img src="JobSearch.png" alt="Logo" width="1300"/>
+<img src="JobSearch.png" alt="Logo" width="800"/>
 
 ## Set-up
 
