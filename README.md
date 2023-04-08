@@ -29,7 +29,8 @@ Download Expo Go from App Store or Play Store. Scan the QR code or Type the URL.
 This may take few minutes.
 
 if you see this following window
-![alt text](homepage.png "JobSearch")
+<img src="homepage.png" alt="Logo" width="200"/>
+
 
 congratulations!!!
 
