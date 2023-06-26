@@ -29,7 +29,7 @@ Download Expo Go from App Store or Play Store. Scan the QR code or Type the URL.
 This may take few minutes.
 
 if you see this following window
-![Alt text](image link)
+![job](https://github.com/ARITRA69/JobSearch/blob/main/homepage.png)
 
 
 congratulations!!!
